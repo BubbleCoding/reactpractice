@@ -2,7 +2,7 @@
 Learning react
 
 Basic react tutorial go here
-stopped https://www.w3schools.com/REACT/react_render.asp 
+stopped https://www.w3schools.com/REACT/react_useeffect.asp
 
 
 Notes:
